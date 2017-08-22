@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.myapp.mobile" version="1.8" xmlns="http://www.w3.org/ns/widgets">
+<widget id="com.myapp.mobile" version="1.0" xmlns="http://www.w3.org/ns/widgets">
 	<name>Black Glass - Panasonic</name>
 	<description>Black Glass - Panasonic</description>
 	<author email="contato@rtpublicity.com.br" href="http://rtpublicity.com.br/sites/panasonic/blackglass">Black Glass - Panasonic</author>
-	<preference name='phonegap-version' value='cli-7.0.1' />
+	<preference name='phonegap-version' value='cli-6.5.1' />
 	<preference name='pgb-builder-version' value='1' />
 	<preference name="permissions" value="none" />
 	<preference name="orientation" value="landscape" />
